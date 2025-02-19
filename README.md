@@ -1,7 +1,7 @@
 # Go-lang
 
 Commands to initialize go project:
- go mod init <`project-name`>  
+1. go mod init <`project-name`>  
  
 Comand to run the project:
 1. go run <`file-name`>.go
